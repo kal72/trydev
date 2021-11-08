@@ -1496,6 +1496,11 @@ p {
   right: 0;
 }
 
+.ud-footer-widgets{
+  padding-top: 100px;
+  padding-bottom: 200px;
+}
+
 .ud-widget {
   margin-bottom: 50px;
 }
